@@ -2,7 +2,7 @@
 
 [silentor](https://github.com/Jayin/silentor), a friendly fork of [silent](https://github.com/fritx/silent)
 ========
-> Be a silentor, focus on writting your words down.
+> Be a silentor, focus on writting your words down.nice.
 
 特点
 ----
