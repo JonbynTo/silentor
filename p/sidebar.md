@@ -1,4 +1,4 @@
-![Meizhuo logo](../img/jonbyn.ico)
+![Meizhuo logo](../img/favicon.ico)
 
 # [silentor](.)
 
