@@ -1,10 +1,10 @@
 ![](react-home.png)
-#一、关于React
+# 一、关于React
 * React源于Facebook，于2013年5月开源，用于构建用户界面。
 * 几个前端框架：AngularJS，React，Vue
 * React预热：JS，DOM，JSX（不必须）
 
-#二、React的特点
+# 二、React的特点
 * 虚拟DOM
 
     >与其它框架相比，React采取了一种特立独行的操作DOM的方式。
@@ -27,7 +27,7 @@
 
 	>
 
-#三、React的使用
+# 三、React的使用
 * 安装
 
 	> 1. 到[官网](https://facebook.github.io/react/downloads.html "React")下载压缩包
@@ -60,8 +60,8 @@
 	[component.html](react-demos-master/demo04/index.html)
 
 * DOM，表单，事件，Ajax
-#四、React的实用性和可实施性
-#五、参考链接
+# 四、React的实用性和可实施性
+# 五、参考链接
 * React英文官网 [https://facebook.github.io/react/index.html](https://facebook.github.io/react/index.html)
 * React中文官网 [http://reactjs.cn/react/index.html](http://reactjs.cn/react/index.html)
 * 阮一峰入门实例教程 [http://www.ruanyifeng.com/blog/2015/03/react.html](http://www.ruanyifeng.com/blog/2015/03/react.html)
