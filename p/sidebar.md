@@ -1,8 +1,8 @@
 ![Jonbyn's Blog logo](../img/favicon.png)
 
-# [silentor](.)
+# [Jonbyn](.)
 
-> Be a silentor, focus on writting your words down
+> To be a program designer
 
 - [项目](projects/index.md)
 - [文档](docs/readme.md)
