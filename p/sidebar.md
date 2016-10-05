@@ -1,4 +1,4 @@
-![Meizhuo logo](../img/favicon.ico)
+![Jonbyn's Blog logo](../img/favicon.png)
 
 # [silentor](.)
 
