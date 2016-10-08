@@ -2,7 +2,7 @@ Notes
 ============
 > It's never too old to learn.
 
-* [Android](./use-disqus/main.md)
+* [Android](./android/android.md)
 * [Java](./use-disqus/main.md)
 * [Git](./use-disqus/main.md)
 * [PHP](./use-disqus/main.md)
