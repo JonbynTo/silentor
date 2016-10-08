@@ -6,5 +6,5 @@
 
 - [Timeline](projects/index.md)
 - [Tech](docs/readme.md)
-- [Notes](profession.md)
+- [Notes](notes/notes.md)
 - [About](about.md)
