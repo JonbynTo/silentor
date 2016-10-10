@@ -2,6 +2,7 @@ Notes
 ============
 > It's never too old to learn.
 
+* [Markdown](./markdown/markdown.md)
 * [Android](./android/android.md)
 * [Java](./use-disqus/main.md)
 * [Git](./use-disqus/main.md)
