@@ -89,7 +89,7 @@ Qiuck Markdown
 ![我的头像](https://www.zybuluo.com/static/img/my_head.jpg)
 
 
-##高级
+## 高级
 ### 1. 内容目录
 
 在段落中填写 `[TOC]` 以显示全文内容的目录结构。
